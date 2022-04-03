@@ -1,1 +1,1 @@
-# javascript-interview-coding-practice
+# javascript-coding-practice

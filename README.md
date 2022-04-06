@@ -31,3 +31,4 @@
 - [Steps](https://github.com/winit30/javascript-coding-practice/blob/main/steps.js)
 - [StringRotation](https://github.com/winit30/javascript-coding-practice/blob/main/stringRotation.js)
 - [TicTacToe](https://github.com/winit30/javascript-coding-practice/blob/main/tictactoe.js), [TictacToe HTML](https://github.com/winit30/javascript-coding-practice/blob/main/tictactoe.html)
+- [Spiral Matrix](https://github.com/winit30/javascript-coding-practice/blob/main/SpiralMatrix.js)

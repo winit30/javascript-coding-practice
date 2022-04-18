@@ -35,3 +35,4 @@
 - [Add Big Numbers](https://github.com/winit30/javascript-coding-practice/blob/main/AddNumbers.js)
 - [Return largest k elements from an array of infinite number of elements in running stream](https://github.com/winit30/javascript-coding-practice/blob/main/findNthInStream.js)
 - [Find Maximum number in a sliding window](https://github.com/winit30/javascript-coding-practice/blob/main/findMaxSlidingWindow.js)
+- [Find Least Common Number](https://github.com/winit30/javascript-coding-practice/blob/main/findLeastCommonNumber.js)

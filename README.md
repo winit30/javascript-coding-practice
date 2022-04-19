@@ -37,3 +37,4 @@
 - [Find Maximum number in a sliding window](https://github.com/winit30/javascript-coding-practice/blob/main/findMaxSlidingWindow.js)
 - [Find Least Common Number](https://github.com/winit30/javascript-coding-practice/blob/main/findLeastCommonNumber.js)
 - [Rotate Array](https://github.com/winit30/javascript-coding-practice/blob/main/rotateArray.js)
+- [Move Zero To Left](https://github.com/winit30/javascript-coding-practice/blob/main/moveZerosToLeft.js)

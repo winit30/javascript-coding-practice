@@ -39,3 +39,4 @@
 - [Rotate Array](https://github.com/winit30/javascript-coding-practice/blob/main/rotateArray.js)
 - [Move Zero To Left](https://github.com/winit30/javascript-coding-practice/blob/main/moveZerosToLeft.js)
 - [Merge Array with overlaping intervals](https://github.com/winit30/javascript-coding-practice/blob/main/mergeArrayOverlapIntervals.js)
+- [Quick Sort Array](https://github.com/winit30/javascript-coding-practice/blob/main/quickSort.js)

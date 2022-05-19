@@ -43,3 +43,4 @@
 - [Merge Sort Array](https://github.com/winit30/javascript-coding-practice/blob/main/mergeSort.js)
 - [Find Sum Of Two](https://github.com/winit30/javascript-coding-practice/blob/main/findSumOfTwo.js)
 - [Find minimum value in rotated sorted array with birnary search](https://github.com/winit30/javascript-coding-practice/blob/main/findMinimumBinarySearch.js)
+- [Insertion Sort](https://github.com/winit30/javascript-coding-practice/blob/main/insertionSort.js)
